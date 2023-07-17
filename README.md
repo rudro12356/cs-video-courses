@@ -867,6 +867,7 @@ Table of Contents
 - [Photogrammetry 1 Course – 2020 - University of Bonn](https://www.ipb.uni-bonn.de/photo1-2020/)
 - [Photogrammetry II Course 2020/21 - University of Bonn](https://www.ipb.uni-bonn.de/photo2-2020/)
 - [3D Computer Vision - National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
+- [Purdue ECE 595 Computer Vision for Embedded Systems was a short (5 week,  Fall 2022) online graduate course](https://www.youtube.com/playlist?list=PLbAJGHgm1c0jk9tfYDpROveJIoDzO28cO)
 ------------------------------
 
 ### Computational Physics
